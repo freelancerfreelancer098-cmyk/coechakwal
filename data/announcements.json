@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": 1770789991346,
+    "type": "Announcement",
+    "date": "2026-02-11",
+    "title": "Testing",
+    "description": "for testing hello!",
+    "createdAt": "2026-02-11T06:06:31.346Z"
+  },
+  {
+    "id": 1770789706487,
+    "type": "Announcement",
+    "date": "2026-02-11",
+    "title": "Testing",
+    "description": "for testing hello!",
+    "createdAt": "2026-02-11T06:01:46.487Z"
+  }
+]
